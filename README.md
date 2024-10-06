@@ -1,4 +1,4 @@
-# G2A Recruitment Task
+# G2A Shopping Tests
 
 This repository contains a Java-based automated testing framework using Playwright and JUnit. The project tests product search and cart functionalities on the G2A website. It uses Docker for consistent and isolated testing environments.
 
